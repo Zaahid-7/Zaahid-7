@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahid+Hossain" alt="Typing SVG" /></a>
+**Bold text**<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahid+Hossain" alt="Typing SVG" /></a>
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=3BF700&background=0CE8FF00&center=true&vCenter=true&width=500&height=80&lines=A+passionate+frontend+developer+from+Bangladesh" alt="Typing SVG" /></a>
 
