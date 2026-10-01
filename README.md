@@ -83,23 +83,12 @@
 
 <br>
 
+
 <h3 align="center">🐍 My Contributions</h3>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/zaahid-7/zaahid-7/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/zaahid-7/zaahid-7/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/zaahid-7/zaahid-7/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/zaahid-7/zaahid-7/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
