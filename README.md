@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+frontend+developer+from+Bangladesh)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
